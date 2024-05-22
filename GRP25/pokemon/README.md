@@ -6,7 +6,10 @@ Este projeto foi desenvolvido como parte de uma avaliação para disciplina de D
 
 ## Funcionalidades
 
-- 
+- Uma caça pokemon, onde terá 3 telas que serão demonstradas:
+- TAB 1 - Onde encontra o pokémon
+- TAB 2 - Você pode batalhar
+- TAB 3 - Onde você pode verificar seus pokemons
 
 ## Tecnologias Utilizadas
 
