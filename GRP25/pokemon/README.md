@@ -1,4 +1,4 @@
-# Projeto Mobile
+# Projeto Mobile 
 
 ## Descrição
 
@@ -6,7 +6,10 @@ Este projeto foi desenvolvido como parte de uma avaliação para disciplina de D
 
 ## Funcionalidades
 
-- 
+- Pokemon.
+- TAB 1: Caçar pokemon.
+- TAB 2: Batalhar com o pokemon.
+- TAB 3: Pokédex.
 
 ## Tecnologias Utilizadas
 
