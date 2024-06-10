@@ -24,8 +24,8 @@ export class Tab3Page implements OnInit {
         abilities: value.abilities.length,
         height: value.height,
         weight: value.weight,
-        victories: 12,
-        defeats: 4,
+        victories: 7,
+        defeats: 5,
         draws: 3
       };
 
